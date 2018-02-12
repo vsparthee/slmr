@@ -1,0 +1,14 @@
+//
+//  ExamsCell.h
+//  SchoolProject_Master
+//
+//  Created by Parthiban on 11/12/17.
+//  Copyright © 2017 Parthiban. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ExamsCell : UITableViewCell
+@property (weak, nonatomic) IBOutlet UILabel *date;
+@property (weak, nonatomic) IBOutlet UILabel *subject;
+@end

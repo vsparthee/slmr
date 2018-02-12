@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16G1036" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="GOTHIC.TTF">
+            <string>CenturyGothic</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="47" id="KGk-i7-Jjw" customClass="InOutFullListCell">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="47"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="480" height="46.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IsD-LN-Fgt">
+                        <rect key="frame" x="0.0" y="0.0" width="480" height="46.5"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mSb-M8-chg">
+                                <rect key="frame" x="1" y="0.0" width="158.5" height="46.5"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Date" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8tw-lW-zrF">
+                                        <rect key="frame" x="0.0" y="0.0" width="158.5" height="46.5"/>
+                                        <fontDescription key="fontDescription" name="CenturyGothic" family="Century Gothic" pointSize="17"/>
+                                        <color key="textColor" red="0.058823529409999999" green="0.1019607843" blue="0.14901960780000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="8tw-lW-zrF" firstAttribute="top" secondItem="mSb-M8-chg" secondAttribute="top" id="XxX-W6-wiE"/>
+                                    <constraint firstItem="8tw-lW-zrF" firstAttribute="leading" secondItem="mSb-M8-chg" secondAttribute="leading" id="YC2-40-2ap"/>
+                                    <constraint firstAttribute="trailing" secondItem="8tw-lW-zrF" secondAttribute="trailing" id="cPm-xi-jie"/>
+                                    <constraint firstAttribute="bottom" secondItem="8tw-lW-zrF" secondAttribute="bottom" id="cQz-hU-XX4"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dy1-8Y-8y2">
+                                <rect key="frame" x="160.5" y="0.0" width="159" height="46.5"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="In Time" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cvz-ww-OMY">
+                                        <rect key="frame" x="0.0" y="0.0" width="159" height="46.5"/>
+                                        <fontDescription key="fontDescription" name="CenturyGothic" family="Century Gothic" pointSize="17"/>
+                                        <color key="textColor" red="0.058823529409999999" green="0.1019607843" blue="0.14901960780000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="cvz-ww-OMY" firstAttribute="top" secondItem="dy1-8Y-8y2" secondAttribute="top" id="Emt-8t-lz0"/>
+                                    <constraint firstItem="cvz-ww-OMY" firstAttribute="leading" secondItem="dy1-8Y-8y2" secondAttribute="leading" id="Rhf-ZA-kp0"/>
+                                    <constraint firstAttribute="bottom" secondItem="cvz-ww-OMY" secondAttribute="bottom" id="Vlh-r1-Z1f"/>
+                                    <constraint firstAttribute="trailing" secondItem="cvz-ww-OMY" secondAttribute="trailing" id="xDL-kB-1hz"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7xc-3w-FIW">
+                                <rect key="frame" x="320.5" y="0.0" width="158.5" height="46.5"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Out Time" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xzD-Da-KQ6">
+                                        <rect key="frame" x="0.0" y="0.0" width="158.5" height="46.5"/>
+                                        <fontDescription key="fontDescription" name="CenturyGothic" family="Century Gothic" pointSize="17"/>
+                                        <color key="textColor" red="0.058823529409999999" green="0.1019607843" blue="0.14901960780000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="xzD-Da-KQ6" secondAttribute="trailing" id="FcP-Oh-wPV"/>
+                                    <constraint firstItem="xzD-Da-KQ6" firstAttribute="top" secondItem="7xc-3w-FIW" secondAttribute="top" id="VRM-Yz-pX2"/>
+                                    <constraint firstItem="xzD-Da-KQ6" firstAttribute="leading" secondItem="7xc-3w-FIW" secondAttribute="leading" id="o99-sm-bdv"/>
+                                    <constraint firstAttribute="bottom" secondItem="xzD-Da-KQ6" secondAttribute="bottom" id="qrB-oS-zMD"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="7xc-3w-FIW" firstAttribute="height" secondItem="mSb-M8-chg" secondAttribute="height" id="320-8l-cEw"/>
+                            <constraint firstItem="mSb-M8-chg" firstAttribute="leading" secondItem="IsD-LN-Fgt" secondAttribute="leading" constant="1" id="BB0-ql-cwU"/>
+                            <constraint firstItem="7xc-3w-FIW" firstAttribute="leading" secondItem="dy1-8Y-8y2" secondAttribute="trailing" constant="1" id="BMp-52-2OL"/>
+                            <constraint firstItem="mSb-M8-chg" firstAttribute="top" secondItem="IsD-LN-Fgt" secondAttribute="top" id="BNF-8X-6h9"/>
+                            <constraint firstAttribute="bottom" secondItem="dy1-8Y-8y2" secondAttribute="bottom" id="Bqd-uE-hbv"/>
+                            <constraint firstItem="dy1-8Y-8y2" firstAttribute="top" secondItem="IsD-LN-Fgt" secondAttribute="top" id="C1q-AX-ouc"/>
+                            <constraint firstItem="dy1-8Y-8y2" firstAttribute="leading" secondItem="mSb-M8-chg" secondAttribute="trailing" constant="1" id="Cuw-r7-xZn"/>
+                            <constraint firstAttribute="trailing" secondItem="7xc-3w-FIW" secondAttribute="trailing" constant="1" id="M7j-zh-0sX"/>
+                            <constraint firstItem="dy1-8Y-8y2" firstAttribute="width" secondItem="mSb-M8-chg" secondAttribute="width" id="Sik-y1-iTJ"/>
+                            <constraint firstItem="7xc-3w-FIW" firstAttribute="width" secondItem="mSb-M8-chg" secondAttribute="width" id="fyC-dA-OFX"/>
+                            <constraint firstItem="7xc-3w-FIW" firstAttribute="top" secondItem="IsD-LN-Fgt" secondAttribute="top" id="gV9-PH-utN"/>
+                            <constraint firstAttribute="bottom" secondItem="7xc-3w-FIW" secondAttribute="bottom" id="lTo-Ul-XaQ"/>
+                            <constraint firstAttribute="bottom" secondItem="mSb-M8-chg" secondAttribute="bottom" id="qkm-GY-1AA"/>
+                            <constraint firstItem="dy1-8Y-8y2" firstAttribute="height" secondItem="mSb-M8-chg" secondAttribute="height" id="ytv-N0-smb"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="IsD-LN-Fgt" secondAttribute="bottom" id="2gn-ZJ-aCo"/>
+                    <constraint firstItem="IsD-LN-Fgt" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="BDN-HN-YfF"/>
+                    <constraint firstAttribute="trailing" secondItem="IsD-LN-Fgt" secondAttribute="trailing" id="Svf-9q-mH5"/>
+                    <constraint firstItem="IsD-LN-Fgt" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="rqm-iP-bTi"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <connections>
+                <outlet property="date" destination="8tw-lW-zrF" id="hqd-vc-54Z"/>
+                <outlet property="inTime" destination="cvz-ww-OMY" id="wzQ-a4-56m"/>
+                <outlet property="outTime" destination="xzD-Da-KQ6" id="enQ-qE-muN"/>
+            </connections>
+            <point key="canvasLocation" x="105" y="53.5"/>
+        </tableViewCell>
+    </objects>
+</document>

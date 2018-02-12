@@ -1,0 +1,204 @@
+
+/* Class = "UILabel"; text = "IWEBI SCHOOL OF INTERNATIONAL"; ObjectID = "082-vB-6Jg"; */
+"082-vB-6Jg.text" = "IWEBI SCHOOL OF INTERNATIONAL";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "0aU-vL-enT"; */
+"0aU-vL-enT.text" = "English";
+
+/* Class = "UIButton"; normalTitle = "SIGNIN"; ObjectID = "0uy-6U-ASb"; */
+"0uy-6U-ASb.normalTitle" = "SIGNIN";
+
+/* Class = "UILabel"; text = "Father"; ObjectID = "13I-8H-Pme"; */
+"13I-8H-Pme.text" = "Father";
+
+/* Class = "UILabel"; text = "Results"; ObjectID = "2qs-MS-h9h"; */
+"2qs-MS-h9h.text" = "Results";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "3UM-FF-c8v"; */
+"3UM-FF-c8v.text" = "Subject";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "49L-zm-HGk"; */
+"49L-zm-HGk.text" = "English";
+
+/* Class = "UILabel"; text = "Select Exam"; ObjectID = "4Gj-ln-KxU"; */
+"4Gj-ln-KxU.text" = "Select Exam";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "6Bi-sM-fi5"; */
+"6Bi-sM-fi5.text" = "Comment";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "APO-pW-lMQ"; */
+"APO-pW-lMQ.text" = ":";
+
+/* Class = "UILabel"; text = "Date of Birth"; ObjectID = "BtK-wl-RNL"; */
+"BtK-wl-RNL.text" = "Date of Birth";
+
+/* Class = "UILabel"; text = "SIGNUP FORM"; ObjectID = "Btj-BI-XRC"; */
+"Btj-BI-XRC.text" = "SIGNUP FORM";
+
+/* Class = "UITextField"; placeholder = "Enter Your Password"; ObjectID = "DJL-U0-URv"; */
+"DJL-U0-URv.placeholder" = "Enter Your Password";
+
+/* Class = "UILabel"; text = "*Note: Need admin approval after you get login details for Email ID"; ObjectID = "DSw-n7-J6y"; */
+"DSw-n7-J6y.text" = "*Note: Need admin approval after you get login details for Email ID";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "Dpm-df-QJj"; */
+"Dpm-df-QJj.normalTitle" = "Change Language";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ETY-Nv-bKe"; */
+"ETY-Nv-bKe.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Attendance"; ObjectID = "GM3-Kb-cdM"; */
+"GM3-Kb-cdM.text" = "Attendance";
+
+/* Class = "UILabel"; text = "21/06/1990"; ObjectID = "GgV-Ij-Pa9"; */
+"GgV-Ij-Pa9.text" = "21/06/1990";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "H2Q-Ye-Xnt"; */
+"H2Q-Ye-Xnt.text" = "Male";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP"; ObjectID = "H5Q-sc-lPa"; */
+"H5Q-sc-lPa.normalTitle" = "SIGNUP";
+
+/* Class = "UILabel"; text = "Current :"; ObjectID = "HHG-95-qhU"; */
+"HHG-95-qhU.text" = "Current :";
+
+/* Class = "UITextField"; placeholder = "Enter Your Professional"; ObjectID = "Hve-z8-e9H"; */
+"Hve-z8-e9H.placeholder" = "Enter Your Professional";
+
+/* Class = "UILabel"; text = "Saudi Arabia"; ObjectID = "KjN-5i-RbT"; */
+"KjN-5i-RbT.text" = "Saudi Arabia";
+
+/* Class = "UILabel"; text = "Exam"; ObjectID = "Lc2-XQ-X8r"; */
+"Lc2-XQ-X8r.text" = "Exam";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "LtN-i7-3rq"; */
+"LtN-i7-3rq.text" = "Dashboard";
+
+/* Class = "UILabel"; text = "Current :"; ObjectID = "Mts-1U-CN3"; */
+"Mts-1U-CN3.text" = "Current :";
+
+/* Class = "UITextField"; placeholder = "Enter Your Address"; ObjectID = "OgL-we-zaK"; */
+"OgL-we-zaK.placeholder" = "Enter Your Address";
+
+/* Class = "UILabel"; text = "Grade"; ObjectID = "Oxj-SJ-MB4"; */
+"Oxj-SJ-MB4.text" = "Grade";
+
+/* Class = "UILabel"; text = "Notice Board"; ObjectID = "Pmq-8i-70f"; */
+"Pmq-8i-70f.text" = "Notice Board";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "S8L-yS-u4Z"; */
+"S8L-yS-u4Z.placeholder" = "E-Mail";
+
+/* Class = "UILabel"; text = "700"; ObjectID = "SKr-Ig-rzS"; */
+"SKr-Ig-rzS.text" = "700";
+
+/* Class = "UILabel"; text = "9.75"; ObjectID = "Sjd-Hk-Z9i"; */
+"Sjd-Hk-Z9i.text" = "9.75";
+
+/* Class = "UILabel"; text = "B+"; ObjectID = "TLW-IE-8pw"; */
+"TLW-IE-8pw.text" = "B+";
+
+/* Class = "UILabel"; text = "Religion"; ObjectID = "Ve5-Wm-a2o"; */
+"Ve5-Wm-a2o.text" = "Religion";
+
+/* Class = "UILabel"; text = "2A"; ObjectID = "Y8q-On-aVe"; */
+"Y8q-On-aVe.text" = "2A";
+
+/* Class = "UILabel"; text = "CGP"; ObjectID = "YGP-IK-hbh"; */
+"YGP-IK-hbh.text" = "CGP";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Z6Y-9k-qVR"; */
+"Z6Y-9k-qVR.text" = "Profile";
+
+/* Class = "UILabel"; text = "Mark"; ObjectID = "ZZM-cr-W8Z"; */
+"ZZM-cr-W8Z.text" = "Mark";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "aTF-Eh-2vH"; */
+"aTF-Eh-2vH.text" = ":";
+
+/* Class = "UITextField"; placeholder = "Enter Your Child Student ID"; ObjectID = "arg-6y-dkm"; */
+"arg-6y-dkm.placeholder" = "Enter Your Child Student ID";
+
+/* Class = "UILabel"; text = "Class Routine"; ObjectID = "cld-xS-Yp4"; */
+"cld-xS-Yp4.text" = "Class Routine";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "eAQ-fV-tkl"; */
+"eAQ-fV-tkl.text" = "Gender";
+
+/* Class = "UILabel"; text = "Holiday"; ObjectID = "eHo-hw-LNd"; */
+"eHo-hw-LNd.text" = "Holiday";
+
+/* Class = "UILabel"; text = "Exam Results"; ObjectID = "fbd-Aa-Cm5"; */
+"fbd-Aa-Cm5.text" = "Exam Results";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "gwA-sj-BmB"; */
+"gwA-sj-BmB.text" = "Dashboard";
+
+/* Class = "UILabel"; text = "Mother"; ObjectID = "i4G-dI-Dff"; */
+"i4G-dI-Dff.text" = "Mother";
+
+/* Class = "UIButton"; normalTitle = "SIGNIN"; ObjectID = "j0g-bl-mS1"; */
+"j0g-bl-mS1.normalTitle" = "SIGNIN";
+
+/* Class = "UILabel"; text = "Blood Group"; ObjectID = "jfk-yF-g8D"; */
+"jfk-yF-g8D.text" = "Blood Group";
+
+/* Class = "UILabel"; text = "Muslim"; ObjectID = "k40-Gd-wZ9"; */
+"k40-Gd-wZ9.text" = "Muslim";
+
+/* Class = "UILabel"; text = "591"; ObjectID = "lDH-re-ici"; */
+"lDH-re-ici.text" = "591";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "mOT-Eo-o9O"; */
+"mOT-Eo-o9O.text" = "Profile";
+
+/* Class = "UILabel"; text = "Class"; ObjectID = "nt2-Cf-HLl"; */
+"nt2-Cf-HLl.text" = "Class";
+
+/* Class = "UILabel"; text = "ADS193732"; ObjectID = "pHi-J9-qb3"; */
+"pHi-J9-qb3.text" = "ADS193732";
+
+/* Class = "UILabel"; text = "Pass"; ObjectID = "q1i-fb-GPb"; */
+"q1i-fb-GPb.text" = "Pass";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "r6w-Ix-oaP"; */
+"r6w-Ix-oaP.text" = ":";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "t4e-Cs-FZz"; */
+"t4e-Cs-FZz.normalTitle" = "Change Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t7c-Hi-eoH"; */
+"t7c-Hi-eoH.text" = "Label";
+
+/* Class = "UILabel"; text = "Father"; ObjectID = "ts9-DZ-zYI"; */
+"ts9-DZ-zYI.text" = "Father";
+
+/* Class = "UIButton"; normalTitle = "Alredy have an account?"; ObjectID = "twC-FR-G8X"; */
+"twC-FR-G8X.normalTitle" = "Alredy have an account?";
+
+/* Class = "UITextField"; placeholder = "Enter Your Mobile No"; ObjectID = "u2A-KW-TN0"; */
+"u2A-KW-TN0.placeholder" = "Enter Your Mobile No";
+
+/* Class = "UILabel"; text = "In Out Report"; ObjectID = "uzJ-xp-tPt"; */
+"uzJ-xp-tPt.text" = "In Out Report";
+
+/* Class = "UILabel"; text = "Parthiban VS"; ObjectID = "vMU-7v-QeB"; */
+"vMU-7v-QeB.text" = "Parthiban VS";
+
+/* Class = "UITextField"; placeholder = "Enter Your Full Name"; ObjectID = "vh3-on-kBz"; */
+"vh3-on-kBz.placeholder" = "Enter Your Full Name";
+
+/* Class = "UILabel"; text = "Sutudent ID"; ObjectID = "xNQ-KH-g8y"; */
+"xNQ-KH-g8y.text" = "Sutudent ID";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email ID"; ObjectID = "z7w-7I-BP9"; */
+"z7w-7I-BP9.placeholder" = "Enter Your Email ID";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "zd3-EG-AxM"; */
+"zd3-EG-AxM.text" = ":";
+
+/* Class = "UILabel"; text = "Select Exam"; ObjectID = "zgn-1w-4LX"; */
+"zgn-1w-4LX.text" = "Select Exam";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "zhj-U2-xov"; */
+"zhj-U2-xov.text" = "Country";

@@ -1,0 +1,6 @@
+framework module Pods_SchoolProject_Master {
+  umbrella header "Pods-SchoolProject_Master-umbrella.h"
+
+  export *
+  module * { export * }
+}

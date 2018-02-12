@@ -1,0 +1,23 @@
+//Dashboard
+"Dashboard"="Dashboard";
+"Profile"="Profile";
+"Class Routine"="Class Routine";
+"Exams"="Exams";
+"Results"="Results";
+"Attendance"="Attendance";
+"Holiday"="Holiday";
+"Notice Board"="Notice Board";
+"In Out Report"="In Out Report";
+
+//Menu
+"Home"="Home";
+"Logout"="Logout";
+
+//Profile
+"Class"="Class";
+"Student ID"="Student ID";
+"Date of Birth"="Date of Birth";
+"Gender"="Gender";
+"Religion"="Religion";
+"Country"="Country";
+"Blood Group"="Blood Group";

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="17B1003" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="GOTHIC.TTF">
+            <string>CenturyGothic</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="206" id="KGk-i7-Jjw" customClass="PrivateMessageCell">
+            <rect key="frame" x="0.0" y="0.0" width="450" height="206"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="450" height="205.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jeg-hF-xwR">
+                        <rect key="frame" x="4" y="2" width="442" height="201.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="13" translatesAutoresizingMaskIntoConstraints="NO" id="BId-zq-Hc2">
+                                <rect key="frame" x="8" y="8" width="426" height="153"/>
+                                <string key="text">Will attempt to recover by constraint  Will attempt to recover by breaking constraint  Will attempt to  by breaking constraint Will  to recover by breaking constraint </string>
+                                <fontDescription key="fontDescription" name="CenturyGothic" family="Century Gothic" pointSize="17"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="21-12-2018" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="zUo-Wk-KQc">
+                                <rect key="frame" x="8" y="169" width="426" height="25"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="lMK-dj-RVM"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="CenturyGothic" family="Century Gothic" pointSize="15"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.96470588239999999" green="0.94901960780000005" blue="0.93725490199999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="BId-zq-Hc2" firstAttribute="top" secondItem="jeg-hF-xwR" secondAttribute="top" constant="8" id="6Bb-8e-vdM"/>
+                            <constraint firstItem="zUo-Wk-KQc" firstAttribute="top" secondItem="BId-zq-Hc2" secondAttribute="bottom" constant="8" id="LLF-X7-TXa"/>
+                            <constraint firstAttribute="trailing" secondItem="zUo-Wk-KQc" secondAttribute="trailing" constant="8" id="T3M-0C-mfj"/>
+                            <constraint firstAttribute="bottom" secondItem="zUo-Wk-KQc" secondAttribute="bottom" constant="8" id="XEC-PA-bv7"/>
+                            <constraint firstAttribute="trailing" secondItem="BId-zq-Hc2" secondAttribute="trailing" constant="8" id="Zqp-Nc-O9z"/>
+                            <constraint firstItem="zUo-Wk-KQc" firstAttribute="leading" secondItem="jeg-hF-xwR" secondAttribute="leading" constant="8" id="cB7-EG-ZUM"/>
+                            <constraint firstItem="BId-zq-Hc2" firstAttribute="leading" secondItem="jeg-hF-xwR" secondAttribute="leading" constant="8" id="cN2-x8-VCi"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="jeg-hF-xwR" secondAttribute="bottom" constant="2" id="8dj-0t-8ss"/>
+                    <constraint firstAttribute="trailing" secondItem="jeg-hF-xwR" secondAttribute="trailing" constant="4" id="KPz-TJ-gLV"/>
+                    <constraint firstItem="jeg-hF-xwR" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="4" id="UmN-mU-Ju9"/>
+                    <constraint firstItem="jeg-hF-xwR" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="2" id="eUZ-V8-Wbc"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="lblDate" destination="zUo-Wk-KQc" id="nlx-kb-naO"/>
+                <outlet property="lblMessgae" destination="BId-zq-Hc2" id="8Lz-oF-k5D"/>
+            </connections>
+            <point key="canvasLocation" x="91" y="133"/>
+        </tableViewCell>
+    </objects>
+</document>

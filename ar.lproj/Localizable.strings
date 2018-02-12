@@ -1,0 +1,23 @@
+//Dashboard
+"Dashboard"="لوحة القيادة";
+"Profile"="الملف الشخصي";
+"Class Routine"="الدرجة الروتينية";
+"Exams"="الامتحانات";
+"Results"="النتائج";
+"Attendance"="الحضور";
+"Holiday"="يوم الاجازة";
+"Notice Board"="لوح الإعلانات";
+"In Out Report"="في تقرير خارج";
+
+//Menu
+"Home"="الصفحة الرئيسية";
+"Logout"="الخروج";
+
+//Profile
+"Class"="صف دراسي";
+"Student ID"="هوية الطالب";
+"Date of Birth"="تاريخ الولادة";
+"Gender"="جنس";
+"Religion"="دين";
+"Country"="بلد";
+"Blood Group"="فصيلة الدم";
